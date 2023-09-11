@@ -24,5 +24,3 @@ Neste projeto desenvolvi os seguintes métodos de manipulação de array:
 ## Instrutor Guilherme Lima
 [Linkedin](https://www.linkedin.com/in/guilherme-lima-458925178/)
 [GitHub](https://github.com/guilhermeonrails)
-
-
